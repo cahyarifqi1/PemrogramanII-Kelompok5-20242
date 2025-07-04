@@ -1,4 +1,4 @@
-# Tugas Konversi Mata Uang - Pemrograman II
+Tugas Konversi Mata Uang - Pemrograman II (UAS)
 
 ## Anggota Kelompok 5
 21. MOHAMMAD HEYCKAL  
